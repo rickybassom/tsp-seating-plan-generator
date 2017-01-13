@@ -1,0 +1,1 @@
+# seating-plan-generator
